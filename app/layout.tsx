@@ -5,8 +5,8 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'StreamHub - Premium Streaming Platform',
-  description: 'Experience unlimited entertainment with our premium streaming service. Watch movies, TV shows, and live content in stunning 4K quality.',
+  title: 'Nextwavetech VIP - Ready for Non-Stop Entertainment',
+  description: 'Unlimited Movies, Series & Live TV — Anytime, Anywhere',
 }
 
 export default function RootLayout({
