@@ -21,3 +21,4 @@ html { scroll-behavior: smooth; }
 .solution-card .card-overlay { position: absolute; inset: 0; pointer-events: none; background: radial-gradient(120% 120% at 50% 0%, rgba(34,197,94,0.08), rgba(34,197,94,0.04) 50%, rgba(34,197,94,0.02)); opacity: 1; transition: opacity 0.3s ease; }
 .solution-card:hover .card-overlay { opacity: 1; filter: brightness(1.05); }
 
+
