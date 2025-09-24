@@ -36,7 +36,7 @@ export default function Home() {
 
 			<section className="relative min-h-screen flex items-center justify-center overflow-hidden">
 				<div className="absolute inset-0 z-0">
-					<div className="absolute inset-0 bg-cover bg-center bg-no-repeat" style={{ backgroundImage: "url('/assets/images/hero-overlays/download (2).png')" }} />
+					<div className="absolute inset-0 bg-cover bg-center bg-no-repeat" style={{ backgroundImage: "url('/assets/images/hero-overlays/download%20(2).png')" }} />
 					<div className="absolute inset-0 bg-black/60" />
 					<div className="absolute top-0 left-0 w-1/3 h-full bg-gradient-to-r from-green-900/20 to-transparent" />
 					<div className="absolute top-0 right-0 w-1/3 h-full bg-gradient-to-l from-green-900/20 to-transparent" />
